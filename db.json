@@ -4,6 +4,16 @@
       "firstname" : "Nurul",
       "age" : "21",
       "email" : "nurulsatria59@gmail.com"
+    },
+    {
+      "firstname" : "Satria",
+      "age" : "22",
+      "email" : "nurulsatria60@gmail.com"
+    },
+    {
+      "firstname" : "Winaldha",
+      "age" : "23",
+      "email" : "nurulsatria61@gmail.com"
     }
-    ]
+  ]
 }
