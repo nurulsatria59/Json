@@ -1,1 +1,9 @@
-
+{
+  "employees": [
+    {
+      "firstname" : "Nurul",
+      "age" : "21",
+      "email" : "nurulsatria59@gmail.com"
+    }
+    ]
+}
